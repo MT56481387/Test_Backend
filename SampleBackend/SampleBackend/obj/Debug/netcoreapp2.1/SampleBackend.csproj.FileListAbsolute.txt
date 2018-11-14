@@ -1,0 +1,14 @@
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\bin\Debug\netcoreapp2.1\SampleBackend.deps.json
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\bin\Debug\netcoreapp2.1\SampleBackend.runtimeconfig.json
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\bin\Debug\netcoreapp2.1\SampleBackend.runtimeconfig.dev.json
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\bin\Debug\netcoreapp2.1\SampleBackend.dll
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.csprojAssemblyReference.cache
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.csproj.CoreCompileInputs.cache
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.RazorAssemblyInfo.cache
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.RazorAssemblyInfo.cs
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.AssemblyInfoInputs.cache
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.AssemblyInfo.cs
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.RazorTargetAssemblyInfo.cache
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\bin\Debug\netcoreapp2.1\SampleBackend.pdb
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.dll
+D:\Desktop\Angular_sample\Sample_EF\sample\SampleBackend\SampleBackend\obj\Debug\netcoreapp2.1\SampleBackend.pdb
